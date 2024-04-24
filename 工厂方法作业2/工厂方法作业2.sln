@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂方法作业2", "工厂方法作业2\工厂方法作业2.csproj", "{43369FB5-7796-4829-B700-DF1AB0600841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43369FB5-7796-4829-B700-DF1AB0600841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43369FB5-7796-4829-B700-DF1AB0600841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43369FB5-7796-4829-B700-DF1AB0600841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43369FB5-7796-4829-B700-DF1AB0600841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F11C982-C6F5-48FF-9809-0CFEF3C3264C}
+	EndGlobalSection
+EndGlobal
