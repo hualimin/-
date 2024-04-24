@@ -1,0 +1,13 @@
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\bin\Debug\netcoreapp3.1\备忘录.exe
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\bin\Debug\netcoreapp3.1\备忘录.deps.json
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\bin\Debug\netcoreapp3.1\备忘录.runtimeconfig.json
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\bin\Debug\netcoreapp3.1\备忘录.runtimeconfig.dev.json
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\bin\Debug\netcoreapp3.1\备忘录.dll
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\bin\Debug\netcoreapp3.1\备忘录.pdb
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.csprojAssemblyReference.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.AssemblyInfoInputs.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.AssemblyInfo.cs
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.csproj.CoreCompileInputs.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.dll
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.pdb
+F:\大三\大三下\C#工作室文件\设计模式\作业\第十次作业-迭代备忘录观察者\第十次作业\备忘录\obj\Debug\netcoreapp3.1\备忘录.genruntimeconfig.cache
