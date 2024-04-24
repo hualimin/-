@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式", "适配器模式\适配器模式.csproj", "{BF7A74A5-577C-4F4A-B16E-74ABD8F8D1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桥接器模式", "桥接器模式\桥接器模式.csproj", "{F5DA08B4-2070-4409-BA4F-C560CB524BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7A74A5-577C-4F4A-B16E-74ABD8F8D1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7A74A5-577C-4F4A-B16E-74ABD8F8D1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7A74A5-577C-4F4A-B16E-74ABD8F8D1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7A74A5-577C-4F4A-B16E-74ABD8F8D1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DA08B4-2070-4409-BA4F-C560CB524BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DA08B4-2070-4409-BA4F-C560CB524BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DA08B4-2070-4409-BA4F-C560CB524BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DA08B4-2070-4409-BA4F-C560CB524BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC1043F7-BD93-40E4-9FB6-88D799E7B258}
+	EndGlobalSection
+EndGlobal
