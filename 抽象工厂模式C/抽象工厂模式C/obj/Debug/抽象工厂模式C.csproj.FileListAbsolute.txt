@@ -1,0 +1,7 @@
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\bin\Debug\抽象工厂模式C.exe.config
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\bin\Debug\抽象工厂模式C.exe
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\bin\Debug\抽象工厂模式C.pdb
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\obj\Debug\抽象工厂模式C.csprojAssemblyReference.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\obj\Debug\抽象工厂模式C.csproj.CoreCompileInputs.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\obj\Debug\抽象工厂模式C.exe
+F:\大三\大三下\C#工作室文件\设计模式\作业\抽象工厂模式C\抽象工厂模式C\obj\Debug\抽象工厂模式C.pdb
