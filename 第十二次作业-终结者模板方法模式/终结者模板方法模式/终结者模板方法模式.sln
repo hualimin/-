@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中介者模式", "中介者模式\中介者模式.csproj", "{DA5C95C0-C885-43DA-AD90-538DFD35FAD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模板方法模式", "模板方法模式\模板方法模式.csproj", "{D5C948E3-7993-416C-8BAF-BAFF64CE2207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5C95C0-C885-43DA-AD90-538DFD35FAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5C95C0-C885-43DA-AD90-538DFD35FAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5C95C0-C885-43DA-AD90-538DFD35FAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5C95C0-C885-43DA-AD90-538DFD35FAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C948E3-7993-416C-8BAF-BAFF64CE2207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C948E3-7993-416C-8BAF-BAFF64CE2207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C948E3-7993-416C-8BAF-BAFF64CE2207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C948E3-7993-416C-8BAF-BAFF64CE2207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0162507-95C2-40AA-BAD4-76EF175BCE3B}
+	EndGlobalSection
+EndGlobal
