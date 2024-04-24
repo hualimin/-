@@ -1,0 +1,13 @@
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\bin\Debug\netcoreapp3.1\简单工厂模式-菜园例题.exe
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\bin\Debug\netcoreapp3.1\简单工厂模式-菜园例题.deps.json
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\bin\Debug\netcoreapp3.1\简单工厂模式-菜园例题.runtimeconfig.json
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\bin\Debug\netcoreapp3.1\简单工厂模式-菜园例题.runtimeconfig.dev.json
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\bin\Debug\netcoreapp3.1\简单工厂模式-菜园例题.dll
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\bin\Debug\netcoreapp3.1\简单工厂模式-菜园例题.pdb
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.csprojAssemblyReference.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.AssemblyInfoInputs.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.AssemblyInfo.cs
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.csproj.CoreCompileInputs.cache
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.dll
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.pdb
+F:\大三\大三下\C#工作室文件\设计模式\作业\简单工厂模式-菜园例题\简单工厂模式-菜园例题\obj\Debug\netcoreapp3.1\简单工厂模式-菜园例题.genruntimeconfig.cache
